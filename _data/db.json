@@ -1,0 +1,25 @@
+{
+  "tickets": [
+    {
+      "id": 1,
+      "title": "Fix footer of web",
+      "body": "Lorem Ipsum",
+      "priority": "low",
+      "user_email": "fake@mail.com"
+    },
+    {
+      "id": 2,
+      "title": "Add pic to nav",
+      "body": "Lorem Ipsum",
+      "priority": "high",
+      "user_email": "fakefake@email.com"
+    },
+    {
+      "id": 3,
+      "title": "add stylesheet",
+      "body": "Lorem",
+      "priority": "low",
+      "user_email": "mail@fake.com"
+    }
+  ]
+}
