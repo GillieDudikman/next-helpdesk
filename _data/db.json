@@ -1,25 +1,67 @@
 {
-  "tickets": [
+  "tasks": [
     {
       "id": 1,
-      "title": "Fix footer of web",
-      "body": "Lorem Ipsum",
+      "title": "Fix computer",
+      "body": "Lrem",
       "priority": "low",
-      "user_email": "fake@mail.com"
+      "user_email": "fake@email.com"
     },
     {
       "id": 2,
-      "title": "Add pic to nav",
-      "body": "Lorem Ipsum",
+      "title": "Fix screen",
+      "body": "Lrem",
       "priority": "high",
-      "user_email": "fakefake@email.com"
+      "user_email": "email@email.com"
     },
     {
       "id": 3,
-      "title": "add stylesheet",
-      "body": "Lorem",
+      "title": "Fix hardware",
+      "body": "Lrem",
+      "priority": "high",
+      "user_email": "email@emfail.com"
+    },
+    {
+      "id": 4,
+      "title": "Fix software",
+      "body": "Lrem",
+      "priority": "high",
+      "user_email": "fake@jjj.com"
+    },
+    {
+      "title": "jjj",
+      "body": "l;'l'",
+      "priority": "medium",
+      "user_email": "mail@mail.com",
+      "id": 5
+    },
+    {
+      "title": "title",
+      "body": "hhggf",
+      "priority": "high",
+      "user_email": "mail@mail.com",
+      "id": 6
+    },
+    {
+      "title": "tyt",
+      "body": "gg",
+      "priority": "medium",
+      "email": "we@hh",
+      "id": 7
+    },
+    {
+      "title": "re",
+      "body": "po",
       "priority": "low",
-      "user_email": "mail@fake.com"
+      "email": "email@example.com",
+      "id": 8
+    },
+    {
+      "title": "jj",
+      "body": "tyu",
+      "priority": "low",
+      "user_email": "ema@il",
+      "id": 9
     }
   ]
 }
